@@ -1,0 +1,43 @@
+{
+  "short_name": "TWC",
+  "name": "TWC: TWC management consulting",
+  "icons": [
+    {
+      "src": "/images/icons-vector.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6",
+  "shortcuts": [
+    {
+      "name": "Think Wice",
+      "short_name": "TWC",
+      "description": "Think Wice Management Consulting",
+      "url": "/today?source=pwa",
+      "icons": [
+        {
+          "src": "/images/today.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "description": "MANAGMENT AND IT CONSULTING",
+  "screenshots": [
+    {
+      "src": "/images/screenshot1.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "/images/screenshot2.jpg",
+      "type": "image/jpg",
+      "sizes": "540x720"
+    }
+  ]
+}
